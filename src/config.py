@@ -1,6 +1,6 @@
 # config.py
-DB_USERNAME = "postgres"
-DB_PASSWORD = "3040628"
-DB_HOST = "localhost"
-DB_PORT = "5432"
-DB_NAME = "employee_data"
+DB_USERNAME = "USERNAME"
+DB_PASSWORD = "YOURPASSWORD"
+DB_HOST = "HOST"
+DB_PORT = "PORT_NUM"
+DB_NAME = "DATABASENAME"
