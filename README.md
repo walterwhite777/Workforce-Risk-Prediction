@@ -9,6 +9,7 @@ This repository contains a data analytics project designed to predict employee c
 - Deliver insights to empower HR with data-driven retention strategies.
 
 ## Contents
+- `Employee Churn Analytics Pilot Program.pdf`: [Full Presentation](https://github.com/aliaagamall/Employee-Risk-Analytics-and-Prediction/blob/main/Reports/Employee%20Churn%20Analytics%20Pilot%20Program.pdf)   
 - `business_case.md`: Outlines the problem statement, objectives, and deliverables.
 - `technical_approach.md`: Details the methodology, tools (PostgreSQL, Python), and workflow.
 - `insights_recommendations.md`: Summarizes key findings and actionable recommendations.
