@@ -15,6 +15,7 @@ This repository contains a data analytics project designed to predict employee c
 - `HR Analyzer.ipynb`: Jupyter Notebook for exploratory data analysis (EDA).
 - `modeling.ipynb`: Jupyter Notebook for predictive modeling (optional reference).
 - [Looker Studio Report Link](https://lookerstudio.google.com/reporting/9f5c4533-f29c-4592-a59f-25a727b963c5): Interactive Report.
+![](https://github.com/aliaagamall/Employee-Risk-Analytics-and-Prediction/blob/main/Reports/Employee%20Attrition%20Risk%20Report.png)
 
 ## Technologies Used
 - **Database**: PostgreSQL
