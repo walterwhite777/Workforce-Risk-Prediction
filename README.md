@@ -1,12 +1,12 @@
-# Employee Risk Analytics And Prediction
+# Workforce-Risk-Prediction
 
 ## Overview
-This repository contains a data analytics project designed to predict employee churn and provide actionable insights for HR retention strategies. I analyzed 15,004 employee records, uncovering key drivers such as low satisfaction (62.5% churn rate) and low salaries. The project includes a comprehensive analysis, visualizations, and an interactive dashboard.
+This repository presents a workforce risk prediction project focused on analyzing employee attrition and offering actionable strategies for HR retention. Using a dataset of 15,004 employee records, the analysis uncovered key churn drivers such as low satisfaction (62.5% attrition) and below-average salaries. The project delivers a detailed analysis, visualizations, and an interactive dashboard to support data-driven HR decisions.
 
 ## Project Purpose
-- Identify factors contributing to employee churn using historical data.
-- Predict churn risk for a pilot program of new employees.
-- Deliver insights to empower HR with data-driven retention strategies.
+	•	Uncover critical factors influencing employee attrition using historical workforce data.
+	•	Build predictive models to estimate churn risk for new employees in a pilot program.
+	•	Provide HR teams with insights to design targeted retention and engagement strategies.
 
 ## Contents
 - `Employee Churn Analytics Pilot Program.pdf`: [Full Presentation](https://github.com/aliaagamall/Employee-Risk-Analytics-and-Prediction/blob/main/Reports/Employee%20Churn%20Analytics%20Pilot%20Program.pdf)   
@@ -27,25 +27,24 @@ This repository contains a data analytics project designed to predict employee c
 ## How to Use
 1. Clone the repository:
    ```
-   git clone https://github.com/aliaagamall/Employee-Risk-Analytics-and-Prediction.git
+   git clone https://github.com/walterwhite777/Workforce-Risk-Prediction.git
    ```
-2. Install dependencies (e.g., `pandas`, `matplotlib`, `seaborn`) via pip:
+3. Install dependencies (e.g., `pandas`, `matplotlib`, `seaborn`) via pip:
    ```
    pip install pandas matplotlib seaborn
    ```
-3. Explore `HR Analyzer.ipynb` for EDA and `modeling.ipynb` for predictions (requires PostgreSQL setup).
-4. View the Looker Studio dashboard (link TBD) for interactive insights.
+4. Explore `HR Analyzer.ipynb` for EDA and `modeling.ipynb` for predictions (requires PostgreSQL setup).
+5. View the Looker Studio dashboard (link TBD) for interactive insights.
 
 ## Key Insights
-- Low satisfaction (62.5% churn) and low salaries (29.7% churn) are top churn drivers.
-- HR and Accounting departments face the highest attrition (29.1% and 26.6%).
-- Workload extremes (2 or 7 projects) correlate with higher churn.
+	•	Employee satisfaction is a major factor: dissatisfaction correlates with 62.5% churn.
+	•	Low salaries contribute to 29.7% attrition.
+	•	HR and Accounting departments show the highest attrition rates (29.1% and 26.6%).
+	•	Both under-allocated (2 projects) and over-allocated (7 projects) employees face higher churn risk.
 
 ## Recommendations
-- Implement employee recognition programs to boost satisfaction.
-- Adjust salaries for low-paid employees.
-- Optimize workload distribution and offer career development for mid-tenure staff.
+	•	Launch recognition and engagement programs to improve satisfaction.
+	•	Review and adjust pay structures for low-paid employees.
+	•	Balance workload distribution and invest in career development for mid-tenure employees.
 
->>
-Contributions or feedback are welcome! Contact me via [LinkedIn](https://www.linkedin.com/in/aliaagamall) or [Gmail](mailto:aliaagamall@gmail.com).
->>
+
